@@ -1,0 +1,34 @@
+/*** UNIVERSAL SELECTOR ***/
+	*
+	{
+		margin: 0;
+
+	}
+/*** END UNIVERSAL SELECTOR ***/
+
+/*** HEADER SECTION ***/
+	nav
+	{
+		background: linear-gradient(270deg, #1D1D1D 47.49%, rgba(29, 29, 29, 0) 98.26%);
+	}
+
+	header
+	{
+		background-image: url('img/hero.png');
+	}
+/*** END HEADER SECTION ***/
+
+/*** WORKS GALLERY SECTION ***/
+	.title-bar
+	{
+		background: rgba(29, 29, 29, 0.6);
+		box-shadow: 0px 5px 5px rgba(0, 0, 0, 0.05);
+		border-radius: 20px;
+	}
+
+	.grey-box
+	{
+		background: rgba(196, 196, 196, 0.2);
+		border-radius: 20px;
+	}
+/*** END WORKS GALLERY SECTION ***/
